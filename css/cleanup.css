@@ -1,1 +1,14 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+.tag-1 {
+    display: none;
+    color: blanchedalmond;
+    font-weight: 200;
+}
+html {
+    background-color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-feature-settings: "abvm";
+}
